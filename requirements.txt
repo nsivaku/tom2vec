@@ -1,0 +1,11 @@
+torch>=2.3
+transformers>=4.51
+numpy
+openai>=1.0
+
+overcooked-ai==1.1.0
+fuzzywuzzy
+pandas
+
+hanabi-learning-environment
+pytest
